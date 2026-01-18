@@ -1,5 +1,5 @@
 {% set name = "google-cloud-storage-control" %}
-{% set version = "1.8.0" %}
+{% set version = "1.9.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/google_cloud_storage_control-{{ version }}.tar.gz
-  sha256: e77f1365667e9cf8b6fbb0fc0de725a6045ee4b42220c3e6f863adace6c4033f
+  sha256: 15645f8199f4140c94c7076c1b3bb87ee5e0162778aa1d483b6a84566c802c84
 
 build:
   skip: true  # [py<37]
