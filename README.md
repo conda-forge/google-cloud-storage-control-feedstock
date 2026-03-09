@@ -269,4 +269,5 @@ Feedstock Maintainers
 
 * [@ankitaluthra1](https://github.com/ankitaluthra1/)
 * [@chandra-siri](https://github.com/chandra-siri/)
+* [@xhochy](https://github.com/xhochy/)
 
