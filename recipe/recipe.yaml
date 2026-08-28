@@ -39,7 +39,7 @@ tests:
       pip_check: true
       imports:
         - google.cloud.storage_control
-        - google.cloud.storage_control_2.services.storage_control.async_client
+        - google.cloud.storage_control_v2.services.storage_control.async_client
 
 about:
   summary: Google Cloud Storage Control API client library
