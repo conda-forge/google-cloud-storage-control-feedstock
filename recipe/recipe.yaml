@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: google-cloud-storage-control
-  version: "1.16.0"
+  version: "1.17.0"
 
 package:
   name: ${{ name|lower }}
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/google_cloud_storage_control-${{ version }}.tar.gz
-  sha256: 52af754aa24bee34bc58287f67a1a849b07c33a010d58d2c1f7c91fa1be0f119
+  sha256: b49f4d9e2d43e18cc6760e37a99ff5d9f674f4532e43e6d84fa69ec194c82bbb
 
 build:
   number: 0
